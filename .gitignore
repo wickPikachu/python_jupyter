@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 .ipynb_checkpoints/
-model.h5
-model.json
+model*.h5
+model*.json
 converted_*.csv
 texasholdem_*.txt
+minmax_scaler.*
